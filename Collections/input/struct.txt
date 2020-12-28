@@ -1,0 +1,28 @@
+﻿+102: Mạng xã hội KunKun.vn (HD, DK, HUY, TC).
++105: Nhận quảng cáo về sản phẩm, dịch vụ VIETTEL gửi kèm trong bản tin MCA (DK, TC).
++127: LBS - định vị qua SMS, tìm địa điểm gần nhất (HD, LIST).
++133: Đăng kí gọi quốc tế TBTS (QT_ON).
++136: Ishare - lấy mật khẩu chuyển tiền TBDĐTT (HD, MK, MK_8).
++138: SmsRoaming - chuyển vùng quốc tế (HD).
++140: Đăng kí gọi tiết kiệm 1200đ/ph gói TOMATO, phí 2000đ/lần/ngày (DK).
++144: Hủy dịch vụ nhắn tin Homephone (HUY_SMS).
++161: Đăng kí, hủy 3G (HD).
++170: SMS siêu tiết kiệm gói Hs, Sv, phí 3000đ/100SMS/lần (HD).
++182: Tổng đài hỗ trợ gửi đường dẫn của dịch vụ tin nhắn đa phương tiện (MMS)
++186: Italk - cài đặt 5 số TBDĐ nội mạng gọi giảm 50% cước vào giờ bận gói Sv (HD).
++188: Vmail - gửi, nhận email qua phần mềm PushMail (HD).
++189: Mstore - kho ứng dụng cho ĐTDĐ (DK, MK, HUY).
++190: Thông báo kết quả tìm kiếm, đấu nối số, thưởng hoa hồng,.. của Sim đa năng (menu Viettel).
++191: Đăng kí, hủy gói cước EDGE/3G, tra cước Data cho TBDĐTS (DK, DK_3G, OFF, HUY, DVIP, TRA_CUOC).
++193: MCA - thông báo cuộc gọi nhỡ (MCA_HD, MCA_LC).
++195: Tra cước nóng TBTS, thay đổi gói cước TBDĐTT (TRA_CUOC, TOMATO, ECONOMY).
++199: Nhận quảng cáo về khuyến mại, sản phẩm, dịch vụ VIETTEL (DK, TC).
++1000: Tải nhạc chuông hình nền trên ImuzikPortal (HD_NC, HD_HN).
++1221: Imuzik - nhạc chờ cho người gọi (HD).
++1226: Imuzik3G - nghe nhạc, xem video trực tuyến trên trang http://3g.imuzik.com.vn/ (HD).
++1234: Imail - gửi, nhận email trên ĐTDĐ qua SMS, MMS (IMAIL, HELP).
++1331: MobiTV - Xem tivi (HD, DK, HUY, TG, GH_soGio).
++8888: Nhận quảng cáo về sản phẩm, dịch vụ VIETTEL (HD, DK, HUY).
++9000: ViettelPrivilege - chương trình tích lũy điểm nhận ưu đãi dựa vào tiền cước sử dụng dành cho TBDĐTS (HD, TD,...).
++9221: Iring - nhạc chờ Imuzik sáng tạo (HOI).
++9222: Mobile News Paper - đọc báo trên ĐTDĐ qua MMS (HD).
